@@ -32,3 +32,4 @@ docker-project/
 ## Key Command
 ```bash
 docker compose up -d --build
+Project screenshots will be added to the 'screenshots/' folder.
